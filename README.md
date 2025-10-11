@@ -25,7 +25,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshmulundkar"></img>
 
 <!-- dark snake -->
-![Dakshmulundkar's github activity graph](https://raw.githubusercontent.com/Dakshmulundkar/Dakshmulundkar/output/github-contribution-grid-snake-dark.svg)
+(https://raw.githubusercontent.com/Dakshmulundkar/Dakshmulundkar/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
